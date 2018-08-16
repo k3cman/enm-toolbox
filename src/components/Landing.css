@@ -1,0 +1,33 @@
+.card{
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2rem;
+    position: relative;
+    width: 450px;
+    height: 800px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    background-image:url(https://image.ibb.co/bR8239/bg.jpg);
+    background-size:cover;
+    background-position: left;
+  }
+
+
+
+  .navbar{
+      height:60px;
+      width:100%;
+      background-color:#034EA2;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      font-size:2em;
+      color:white;
+      display:flex;
+      justify-content: center;
+      align-items:center;
+      font-weight: bold;
+      opacity:1;
+  }
+
